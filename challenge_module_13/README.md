@@ -56,5 +56,5 @@ We used the Leaflet library to plot the data on a Mapbox map through an API requ
 
  
 <p align="center">
-   <img width="600" height="400" src="https://github.com/jacquie0583/Mapping_Earthquakes/blob/main/image%203%20final%20product.png">   
+   <img width="600" height="400" src="https://github.com/bienfaitza/challenge13/blob/main/challenge_module_13/image%203%20final%20product.png">   
 </p>
