@@ -22,8 +22,8 @@ We used the Leaflet library to plot the data on a Mapbox map through an API requ
               earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, 
               also, added the magnitude and location as a popup for each earthquake in step 3.  
 
-<p align="center">
-   <img width="400" height="200" src="https://github.com/jacquie0583/Mapping_Earthquakes/blob/main/image%207.png">   
+<p align="center"> 
+   <img width="400" height="200" src="https://github.com/bienfaitza/challenge13/blob/main/challenge_module_13/image%207.png">   
 </p>
 
     2.  The map has the earthquake data as an overlay on both the Streets and Satellite tile layers,
@@ -38,21 +38,21 @@ We used the Leaflet library to plot the data on a Mapbox map through an API requ
 ####  Tectonic Plate Data  
 
 <p align="center">
-   <img width="600" height="400" src="https://github.com/jacquie0583/Mapping_Earthquakes/blob/main/image%209.png">   
+   <img width="600" height="400" src="https://github.com/bienfaitza/challenge13/blob/main/challenge_module_13/image%209.png">   
 </p>
 
 
 ####  Earthquake Data 
 
 <p align="center">
-   <img width="600" height="400" src="https://github.com/jacquie0583/Mapping_Earthquakes/blob/main/image%2012.png">   
+   <img width="600" height="400" src="https://github.com/bienfaitza/challenge13/blob/main/challenge_module_13/image%2012.png">   
 </p>
 
 
 ####  Additional Maps 
 
 <p align="center">
-   <img width="600" height="400" src="https://github.com/jacquie0583/Mapping_Earthquakes/blob/main/image%2013.png">   
+   <img width="600" height="400" src="https://github.com/bienfaitza/challenge13/blob/main/challenge_module_13/image%2013.png">   
 </p>
 
  
