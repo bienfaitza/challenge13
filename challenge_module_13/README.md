@@ -3,8 +3,7 @@
 In this module, we used the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data from a URL. 
 
 ##  Resources
-We used the Leaflet library to plot the data on a Mapbox map through an API request and created interactivity for the earthquake data. We added the USGS URL for earthquake data by navigating to the USGS Hazards Program, clicking the Earthquakes link to open the Real-time Data Feeds link and scrolled down to "GeoJSON Summary" Feed. There, we clicked the All Earthquakes link under the “Past 7 Days” heading
-      
+We used the Leaflet library to plot the data on a Mapbox map through an API request and created interactivity for the earthquake data.  
  
 ##  Objectives
 
